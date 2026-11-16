@@ -6,7 +6,7 @@ title: Orca Privacy Policy
 
 > **Draft, not final.** This policy has not been reviewed by a lawyer. It must be reviewed by a qualified person before Orca's public launch. It describes the friends-only test version of the app.
 
-**Last updated:** November 4, 2026
+**Last updated:** November 13, 2026
 
 Orca is an app where friends post their meals, workouts, sleep, steps, wake-up time and screen time, rate each other's meals and workouts, and compete on scores, goals and badges. This policy explains what Orca collects, who can see it, and how you can remove it.
 
@@ -35,6 +35,7 @@ Orca is made and run by an individual developer in Massachusetts, USA (not a com
 **What you post.** Each post is stored with the time it was posted:
 
 - Meal and workout photos, with an optional caption. Orca stores when each photo was taken, and a fingerprint of the image (a content hash) so the same photo can't be posted twice. Photos are compressed on your iPhone before upload.
+- The ingredients you add to a meal (each food, its amount, and the calories and nutrients Orca works out from it), and any foods you make yourself (a name, a serving and its nutrition). This is optional.
 - Numbers you type (sleep, wake-up time, steps), and any tracker screenshot you attach as proof.
 - Screen time, always with a screenshot from Settings → Screen Time.
 
@@ -64,6 +65,7 @@ Orca ignores data you typed into the Health app by hand. Raw Health samples (eac
 ## Who can see what
 
 - **Your friends** (people you've both accepted) see your profile and your posts: photos, captions, numbers, screenshots, daily totals and posted workout summaries. They never see your raw Health data.
+- **Meal nutrition:** your friends see the ingredients and nutrition of meals you add ingredients to. A food you make yourself is found only by you; friends see its name and numbers only on your posts that use it. Anyone can choose to hide friends' nutrition in Settings → Privacy.
 - **People who aren't your friends** can find you by name or username to send a friend request, and see your display name, username and profile photo. They can report those three things (see **Blocking and reporting**). They can't see your posts.
 - **Confirmations:** your friends see how many friends confirmed your screen time (✅), and the names of anyone who capped it (🧢). If you cap a friend's screen time, they see your name.
 - **Scores and the Board:** your friends see your daily score, your profile score, your goals and progress, your streak and your badges, and rank you among themselves on the Board. In Settings → Board you can turn the Board off for yourself, which hides it and your rank from you; your friends still see you on theirs.

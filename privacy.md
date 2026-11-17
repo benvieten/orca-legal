@@ -6,7 +6,7 @@ title: Orca Privacy Policy
 
 > **Draft, not final.** This policy has not been reviewed by a lawyer. It must be reviewed by a qualified person before Orca's public launch. It describes the friends-only test version of the app.
 
-**Last updated:** November 13, 2026
+**Last updated:** November 17, 2026
 
 Orca is an app where friends post their meals, workouts, sleep, steps, wake-up time and screen time, rate each other's meals and workouts, and compete on scores, goals and badges. This policy explains what Orca collects, who can see it, and how you can remove it.
 
@@ -26,7 +26,7 @@ Orca is made and run by an individual developer in Massachusetts, USA (not a com
 
 **Your account.** When you sign in with Apple, Orca receives an identifier for your Apple account, your email address if you choose to share it (which may be an Apple relay address), and your name, if you share it, to fill in your profile. Orca uses the identifier and email address only to sign you in.
 
-**Your profile.** Your display name, your username and, if you add one, your profile photo.
+**Your profile.** Your display name, your username and, if you add them, your profile photo and a short bio (up to 150 characters).
 
 **Your agreement.** When you first open Orca you confirm you are 18 or older and agree to the Terms and this Privacy Policy. Orca stores that you did, the time, and the version of the terms. Before you connect Apple Health, Orca asks for your consent and stores the time you gave it. Nothing from Apple Health is stored for your account until you have given it.
 
@@ -64,9 +64,9 @@ Orca ignores data you typed into the Health app by hand. Raw Health samples (eac
 
 ## Who can see what
 
-- **Your friends** (people you've both accepted) see your profile and your posts: photos, captions, numbers, screenshots, daily totals and posted workout summaries. They never see your raw Health data.
+- **Your friends** (people you've both accepted) see your profile and your posts: photos, captions, numbers, screenshots, daily totals and posted workout summaries. They never see your raw Health data. They also see your friends list (except people who've blocked them or whom they've blocked, and accounts that are on hold or banned).
 - **Meal nutrition:** your friends see the ingredients and nutrition of meals you add ingredients to. A food you make yourself is found only by you; friends see its name and numbers only on your posts that use it. Anyone can choose to hide friends' nutrition in Settings → Privacy.
-- **People who aren't your friends** can find you by name or username to send a friend request, and see your display name, username and profile photo. They can report those three things (see **Blocking and reporting**). They can't see your posts.
+- **People who aren't your friends** can find you by name or username to send a friend request. They see your private profile: your display name, username, profile photo, bio, how many friends you have, and the friends you have in common with them. They can report your name, username, photo and bio (see **Blocking and reporting**). They can't see your posts, scores or friends list.
 - **Confirmations:** your friends see how many friends confirmed your screen time (✅), and the names of anyone who capped it (🧢). If you cap a friend's screen time, they see your name.
 - **Scores and the Board:** your friends see your daily score, your profile score, your goals and progress, your streak and your badges, and rank you among themselves on the Board. In Settings → Board you can turn the Board off for yourself, which hides it and your rank from you; your friends still see you on theirs.
 - **Ratings:** Orca never shows who gave a rating. Friends see an item's grade once they've rated it or the day is over.
@@ -90,7 +90,7 @@ You can switch each type off, or disconnect Apple Health, in Orca under Settings
 ## Blocking and reporting
 
 - **Blocking.** You can block a person from their profile. Blocking removes your friendship, hides each of you from the other's search, stops friend requests and @-tags both ways, and hides the blocked person's comments, replies, reactions and activity from you. They are not told. Unblock under Settings → Privacy → Blocked people.
-- **Reporting.** You can report a post, comment, recap or person, with an optional reason. Your friends can report what you post. Anyone who can see your profile, friends or not (people who find you in search, or who have a friend request with you), can report your name, username and profile photo. A reported post or comment disappears for you, for good if it's removed, and otherwise for at least 90 days after the report is resolved. Orca's operator gets a notification and reviews each report within 24 hours. Content that breaks the Terms can be removed, and accounts can be banned. A removed post's photos and caption are hidden from everyone at once, and its files are deleted within 24 hours, unless the law requires keeping them (see **When the law requires it**); the day's score stays. Orca never tells anyone who reported them or how many people did.
+- **Reporting.** You can report a post, comment, recap or person, with an optional reason. Your friends can report what you post. Anyone who can see your profile, friends or not (people who find you in search, or who have a friend request with you), can report your name, username, profile photo and bio. A reported post or comment disappears for you, for good if it's removed, and otherwise for at least 90 days after the report is resolved. Orca's operator gets a notification and reviews each report within 24 hours. Content that breaks the Terms can be removed, and accounts can be banned. A removed post's photos and caption are hidden from everyone at once, and its files are deleted within 24 hours, unless the law requires keeping them (see **When the law requires it**); the day's score stays. Orca never tells anyone who reported them or how many people did.
 - **Automatic holds.** When several different people report the same post, comment, recap or person within a day, Orca hides it automatically: a hold. Reports from accounts less than a day old don't count toward it. The hold is automatic, but a person always reviews it, within 24 hours, and either removes it for good or brings it back as it was. While something is held:
   - **A post** is hidden from everyone, with its photos, caption, comments and reactions. Its owner sees "This post is hidden while it's reviewed." Its files stop being shown but are kept until the review. If it's removed, they're deleted within 24 hours, unless the law requires keeping them; if it's brought back, so are they.
   - **A comment** shows as deleted to everyone. Its author sees "Hidden while it's reviewed".

@@ -6,7 +6,7 @@ title: Orca Privacy Policy
 
 > **Draft, not final.** This policy has not been reviewed by a lawyer. It must be reviewed by a qualified person before Orca's public launch. It describes the friends-only test version of the app.
 
-**Last updated:** November 17, 2026
+**Last updated:** November 18, 2026
 
 Orca is an app where friends post their meals, workouts, sleep, steps, wake-up time and screen time, rate each other's meals and workouts, and compete on scores, goals and badges. This policy explains what Orca collects, who can see it, and how you can remove it.
 
@@ -66,7 +66,7 @@ Orca ignores data you typed into the Health app by hand. Raw Health samples (eac
 
 - **Your friends** (people you've both accepted) see your profile and your posts: photos, captions, numbers, screenshots, daily totals and posted workout summaries. They never see your raw Health data. They also see your friends list (except people who've blocked them or whom they've blocked, and accounts that are on hold or banned).
 - **Meal nutrition:** your friends see the ingredients and nutrition of meals you add ingredients to. A food you make yourself is found only by you; friends see its name and numbers only on your posts that use it. Anyone can choose to hide friends' nutrition in Settings → Privacy.
-- **Your calendar.** You can always look back at your own days on your profile's calendar: each day's score, stats and posts, back to when you joined. Your friends can open your past days there only if you turn on **Let friends see my calendar** in Settings → Privacy. It's off until you do, and you can turn it off at any time. With it off, friends can open only this week's days on your profile.
+- **Your calendar.** You can always look back at your own days on your profile's calendar: each day's score, stats and posts, back to when you joined. Your friends can open your past days there only if you turn on **Let friends see my calendar** in Settings → Privacy. It's off until you do, and you can turn it off at any time. With it off, friends can open only this week's days on your profile. **Wins** (short posts you add yourself) are different: your friends can always see your wins, old ones included, even when your calendar is private (added November 18, 2026).
 
 - **People who aren't your friends** can find you by name or username to send a friend request. They see your private profile: your display name, username, profile photo, bio, how many friends you have, and the friends you have in common with them. They can report your name, username, photo and bio (see **Blocking and reporting**). They can't see your posts, scores or friends list.
 - **Confirmations:** your friends see how many friends confirmed your screen time (✅), and the names of anyone who capped it (🧢). If you cap a friend's screen time, they see your name.

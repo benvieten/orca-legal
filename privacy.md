@@ -56,7 +56,7 @@ Orca ignores data you typed into the Health app by hand. Raw Health samples (eac
 
 **Reactions, comments and mentions.** The reactions, comments, replies and @-tags you write on posts and day recaps, and when you wrote them. Friends who can see the post can see them, with your name.
 
-**Scores, goals, streaks and badges.** Orca works out a score for each of your days and stores it, along with the weekly goals you pick, each week's result, your streak, and the badges you earn. Your friends can see these on your profile and on their Board.
+**Scores, goals, streaks and badges.** Orca works out a score for each of your days and stores it, along with the weekly goals you pick, each week's result, your streak, and the badges you earn. Your sleep score is partly based on how close each night's bedtime and wake-up are to your own average so far. Your friends can see these on your profile and on their Board.
 
 **Reports and blocks.** If you report a post, comment, recap or person, Orca stores what you reported, who reported it, and the reason if you wrote one (up to 280 characters). If something is held after several reports (see **Blocking and reporting**), Orca stores when it was held and, if it's brought back, when. Orca also stores who you have blocked.
 
@@ -65,6 +65,7 @@ Orca ignores data you typed into the Health app by hand. Raw Health samples (eac
 ## Who can see what
 
 - **Your friends** (people you've both accepted) see your profile and your posts: photos, captions, numbers, screenshots, daily totals and posted workout summaries. They never see your raw Health data. They also see your friends list (except people who've blocked them or whom they've blocked, and accounts that are on hold or banned).
+- **Sleep times:** your friends see the hours you slept and, when you logged a wake-up time, your bedtime and wake-up on your day's recap (and on past days in your calendar, if you've opened it to them). Your bedtime is worked out from your wake-up time and hours asleep. Your usual times are shown only to you.
 - **Meal nutrition:** your friends see the ingredients and nutrition of meals you add ingredients to. A food you make yourself is found only by you; friends see its name and numbers only on your posts that use it. Anyone can choose to hide friends' nutrition in Settings → Privacy.
 - **Your calendar.** You can always look back at your own days on your profile's calendar: each day's score, stats and posts, back to when you joined. Your friends can open your past days there only if you turn on **Let friends see my calendar** in Settings → Privacy. It's off until you do, and you can turn it off at any time. With it off, friends can open only this week's days on your profile. **Wins** (short posts you add yourself) are different: your friends can always see your wins, old ones included, even when your calendar is private (added November 18, 2026).
 
